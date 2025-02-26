@@ -52,8 +52,7 @@ plt.plot(X,Y_pred,color='yellow')
 
 ## Output:
 ![best fit line](sam.png)
-![image](https://github.com/user-attachments/assets/7ee57d11-f500-4fdb-927b-4d4e40525413)
-
+![image](https://github.com/user-attachments/assets/f598e1d1-5b53-4e43-bc31-4279cd6ad3d0)
 
 
 ## Result:
